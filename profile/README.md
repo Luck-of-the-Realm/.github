@@ -7,6 +7,9 @@ Here is what is planned, with many more ideas being added as I go!
 |-----:|-----------------|
 | Wood Gathering | Chop trees to gather wood and other rare resources |
 | Mining | Mine different nodes to gather stone and other rare resources |
+| Hunting | Hunt different game to receive your carcass | 
+| Butchering | Utilize the carcass from hunting to gather meat |
+| Breeding | Breed creatures you find on your adventures to receive a baby with stats from both mom and dad |
 
 ## About Me
 
