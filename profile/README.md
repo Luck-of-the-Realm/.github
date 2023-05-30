@@ -3,13 +3,21 @@
 As a DM and also a player, I wanted to bring something to the table that users can play BETWEEN sessions. If you are anything like me, you spend your days between sessions looking forward to getting into trouble on your next adventures. This application is going to bridge the gap between Sessions, allowing players to utilize Downtime during the week (at the DM's discretion) to build up resources, materials, relationships, quests, you name it! <br><br>
 
 Here is what is planned, with many more ideas being added as I go!
+<details>
+  <summary>Planned Downtime Activities</summary>
 | Activity | Description |
 |-----:|-----------------|
 | Wood Gathering | Chop trees to gather wood and other rare resources |
+| Wood Working | Utilize your wood to make various objects for a house or to sell |
 | Mining | Mine different nodes to gather stone and other rare resources |
+| Smelting | Smelt the different ores you find while mining into bars | 
+| Blacksmithing | Use the different bars you create to make marvelous gear | 
 | Hunting | Hunt different game to receive your carcass | 
 | Butchering | Utilize the carcass from hunting to gather meat |
 | Breeding | Breed creatures you find on your adventures to receive a baby with stats from both mom and dad |
+| General Store | Access the general store to purchase various items |
+| Armorer | Purchase gear from the Armoror | 
+  </details>
 
 ## About Me
 
